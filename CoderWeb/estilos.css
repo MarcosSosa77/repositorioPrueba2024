@@ -10,7 +10,7 @@ a {
     text-decoration: none;
 }
 body {
-    background-color: blue;
+    background-color: rgb(249, 255, 78);
 }
 
 header {
@@ -71,24 +71,24 @@ h1{
 
 h2 {
     font-size: 36px;
-    color: white;
+    color: black;
 }
 
 h3 {
     font-size: 28px;
-    color: white;
+    color: black;
 }
 
 p {
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 .contact-btn {
     padding: 20px;
     border-radius: 10px;
     background-color: #1A8DC6;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
